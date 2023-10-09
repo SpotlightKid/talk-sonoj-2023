@@ -26,7 +26,7 @@ revealOptions:
 * Synthesizer / Keyboard Timeline
 * FLOSS instruments
 * Case Studies
-* Example one: "Leaving tonite"
+* Example two: "Leaving tonite"
 * Questions
 
 ---
@@ -67,7 +67,7 @@ Only instruments are listed, which either mark a very important technical develo
 
 ---
 
-The year listed marks general availability. Development might have started earlier. 
+The year listed marks general availability. Development might have started earlier.
 
 Important and/or early users are noted in parentheses.
 
@@ -212,7 +212,7 @@ The state of FLOSS virtual instruments today:
 * Good software support for [SFZ](https://sfzformat.com/) since a few years
 * Growing pool of SFZ sample libraries
 * Lack of presets, instruments and samples tuned for live playing
-* Many sample libraries have non-free licenses 😞 
+* Many sample libraries have non-free licenses 😞
 
 ---
 
@@ -223,7 +223,7 @@ The state of FLOSS virtual instruments today:
 * [Synthesizers](/#synthesizers)
 * [String machines](#/string-machines)
 * [Analog Samplers](#/analog-samplers)
- 
+
 ---
 
 ## Piano
@@ -278,7 +278,7 @@ Use:
 
 * [Sullivan] "Wurlitzer 2003W" (SFZ)
 * [AV Linux] Wurly (SFZ)
-* [Pianobook] 
+* [Pianobook]
 * Emulation with [FM synthesis](#/FM)
 
 [AV Linux]: http://www.bandshed.net/sounds/sfz
