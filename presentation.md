@@ -26,7 +26,7 @@ revealOptions:
 * Synthesizer / Keyboard Timeline
 * FLOSS instruments
 * Case Studies
-* Example two: "Leaving tonite"
+* Example two: "Leaving Tonite"
 * Questions
 
 ---
@@ -545,7 +545,7 @@ The older versions in [DISTRHO ports] are FLOSS and still work well.
 <div id="effects" />
 
 * [Stone Phaser](https://github.com/jpcima/stone-phaser)
-* [Calf] MultiChorus, Phaser, Rotary Speaker, Tape Simulator Vintage Delay
+* [Calf] MultiChorus, Phaser, Rotary Speaker, Tape Simulator, Vintage Delay
 * [YK Chorus](https://github.com/SpotlightKid/ykchorus)
 * [CHOW Tape Model](https://chowdsp.com/products.html)
 * [x42 Whirl](http://x42-plugins.com/x42/x42-whirl)
@@ -627,7 +627,7 @@ The older version in [DISTRHO Ports] is FLOSS and still works well.
 
 ---
 
-## A look at the Ardour sessions
+### A look at the Ardour sessions
 
 Git repositories with Ardour project archives:
 
@@ -652,7 +652,7 @@ Let's boogie!
 Need help with:
 
 * Using synthesizers and sound programming,
-* composing, rcording and production
+* composing, recording and production
 * ... or software development?
 
 <chris@chrisarndt.de>
