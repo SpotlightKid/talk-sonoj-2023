@@ -37,7 +37,7 @@ Let's hear some music first!
 
 <audio class="fragment" type="audio/ogg" controls preload="none"
   data-src="https://0x20.eu/nc/s/PJnNYWyJ7znZ38a/download/Spotlight%20Kyd%20-%20Parta%20Eklipso.ogg">
-  <a href=https://0x20.eu/nc/s/PJnNYWyJ7znZ38a">Download <em>Parta Eklipso</em> Ogg Vorbis audio file</a>
+  <a href="https://0x20.eu/nc/s/PJnNYWyJ7znZ38a">Download <em>Parta Eklipso</em> Ogg Vorbis audio file</a>
 </audio>
 
 ---
@@ -642,7 +642,7 @@ Let's boogie!
 
 <audio class="fragment" type="audio/ogg" controls preload="none"
   src="https://0x20.eu/nc/s/oHwRS6SGXLCosxf/download/Spotlight%20Kyd%20-%20Leaving%20Tonite%20%28Sonoj%20Mix%29.ogg">
-  <a href=https://0x20.eu/nc/s/oHwRS6SGXLCosxf">Download <em>Parta Eklipso</em> Ogg Vorbis audio file</a>
+  <a href="https://0x20.eu/nc/s/oHwRS6SGXLCosxf">Download <em>Leaving Tonite</em> Ogg Vorbis audio file</a>
 </audio>
 
 ---
